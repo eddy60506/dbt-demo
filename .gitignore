@@ -3,3 +3,8 @@
 target/
 dbt_packages/
 logs/
+# dbt core
+venv
+.user.yml
+profiles.yml
+dbt-demo-428503-33dfe3926d41.json
